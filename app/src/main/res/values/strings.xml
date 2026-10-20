@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">usbSuLoader</string>
+    <string name="action_settings"> </string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label"> </string>
+    <string name="second_fragment_label"> </string>
+    <string name="next"> </string>
+    <string name="previous"> </string>
+
+    <string name="lorem_ipsum"> </string>
+</resources>
