@@ -1,4 +1,4 @@
-UsbSuloader — Self-Recovering USB Cellular Modem
+UsbSuloader — Self-Recovering USB Cellular Modem (rooted device required)
 
 Turn a rooted Android phone into a more resilient USB cellular modem for a router or PC.
 
